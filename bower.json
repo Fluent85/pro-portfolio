@@ -1,10 +1,10 @@
 {
-  "name": "Adhoc Portfolio",
-  "homepage": "https://github.com/developertenzin/adhoc-portfolio",
+  "name": "Pro Portfolio",
+  "homepage": "https://github.com/fluent85.github.io/pro-portfolio",
   "authors": [
-    "developertenzin <tenzinphuljung7@gmail.com>"
+    "Richard Tshabalala <tshabalala.richard@gmail.com>"
   ],
-  "description": "This is a portfolio built just for Chicago Digital ;)",
+  "description": "This is a portfolio update ;)",
   "main": "app.js",
   "license": "MIT",
   "ignore": [
