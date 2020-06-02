@@ -14,7 +14,7 @@ https://fluent85.github.io/pro-portfolio/
 
 ## Issues and future development
 
-Currently the application works. Animate.css doesn't work right now.  I plan on adding more in-depth CSS for styling purposes.
+Currently the application works.
 
 ## Technologies Implemented
 
