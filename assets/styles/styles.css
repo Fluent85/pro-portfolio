@@ -50,11 +50,9 @@ h1, h2, h3, h4, h5, h6 {
 /*#my-modal {
 	display: none;
 }
-
 .my-form {
 	margin-top: 20em;
 }
-
 .custombox-content {
 	background: #212332;
 }*/
@@ -187,17 +185,16 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: .7em;
 }
 
+#work .tag-line {
+	color: #767779;
+	font-size: 1.4em;
+	margin-bottom: 4em;
+}
 
 #sports {
 	height: 250px;
   border: 1px solid;
   border-radius: 25px;
-}
-
-#work .tag-line {
-	color: #767779;
-	font-size: 1.4em;
-	margin-bottom: 4em;
 }
 
 #work .work-row {
