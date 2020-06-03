@@ -9,61 +9,28 @@ function makeWords() {
 			weight: 12.5
 		}, {
 			text: "javascript",
-			weight: 13
+			weight: 15
 		}, {
 			text: "jquery",
 			weight: 12
 		}, {
-			text: "programming",
-			weight: 10
-		}, {
-			text: "python",
-			weight: 10
-		}, {
-			text: "java",
-			weight: 9
+			text: "responsive web design",
+			weight: 12
 		}, {
 			text: "nodejs",
-			weight: 11
+			weight: 9
 		}, {
 			text: "npm",
-			weight: 9
+			weight: 10
 		}, {
 			text: "web development",
-			weight: 10
-		}, {
-			text: "C",
-			weight: 8.3
-		}, {
-			text: "Scheme",
-			weight: 8.1
-		}, {
-			text: "php",
-			weight: 7.8
-		}, {
-			text: "hadoop",
-			weight: 8.5
-		}, {
-			text: "numpy",
-			weight: 7
-		}, {
-			text: "matplotlib",
-			weight: 7
-		}, {
-			text: "ruby",
-			weight: 8
+			weight: 14
 		}, {
 			text: "express",
-			weight: 9
-		}, {
-			text: "flask",
-			weight: 8.9
-		}, {
-			text: "responsive design",
-			weight: 10
+			weight: 11
 		}, {
 			text: "bootstrap",
-			weight: 10
+			weight: 12
 		}
 		/* ... */
 	];
