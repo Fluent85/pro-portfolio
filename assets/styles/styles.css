@@ -197,6 +197,25 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 25px;
 }
 
+#spit {
+  height: 250px;
+  border: 1px solid darkslategray;
+	border-radius: 25px;
+	width: 400px;
+}
+
+#weather {
+  height: 250px;
+  border: 1px solid darkslategray;
+  border-radius: 25px;
+}
+
+#workout {
+  height: 250px;
+  border: 1px solid darkslategray;
+  border-radius: 25px;
+}
+
 #work .work-row {
 	margin-bottom: 5.5em;
 }
@@ -240,7 +259,7 @@ h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 }
 
-/*** teaching ***/
+/*** About me***/
 #teaching {
 	padding: 6em 4em 3em;
 }
