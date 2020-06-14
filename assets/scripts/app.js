@@ -18,7 +18,10 @@ function makeWords() {
 			weight: 12
 		}, {
 			text: "nodejs",
-			weight: 9
+			weight: 11.5
+		}, {
+			text: "MERN Stack",
+			weight: 13
 		}, {
 			text: "npm",
 			weight: 10
@@ -31,7 +34,7 @@ function makeWords() {
 		}, {
 			text: "bootstrap",
 			weight: 12
-		}
+		},
 		/* ... */
 	];
 	return words;
