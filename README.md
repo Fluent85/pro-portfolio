@@ -4,7 +4,7 @@ I decided to change the look of my portfolio.  I will be making changes to it re
  
 ## Motivation
 
-Design a martketable employer competitive portfolio that demostrates my skills as a developer.  
+Design a martketable employer competitive portfolio that demonstrates my skills as a developer.  
 
 ## How to use? 
 
